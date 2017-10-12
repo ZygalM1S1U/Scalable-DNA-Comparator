@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <conio.h>
-#define _CRT_SECURE_NO_WARNINGS
+
 
 typedef struct {
 	int *array;
